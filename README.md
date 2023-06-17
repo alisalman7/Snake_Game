@@ -1,2 +1,2 @@
-# Snake_Game_c++
+# Snake_Game_C++
  C++ code for a snake game .
